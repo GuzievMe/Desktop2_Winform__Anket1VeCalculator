@@ -1,0 +1,32 @@
+[
+  {
+    "Surname": null,
+    "Name": "Maham",
+    "AtaAdi": null,
+    "Strana": null,
+    "City": null,
+    "Phone": null,
+    "Cinsi": null,
+    "Birth": null
+  },
+  {
+    "Surname": "Guziye",
+    "Name": null,
+    "AtaAdi": null,
+    "Strana": null,
+    "City": null,
+    "Phone": null,
+    "Cinsi": null,
+    "Birth": null
+  },
+  {
+    "Surname": "mahamass",
+    "Name": "me",
+    "AtaAdi": "faze",
+    "Strana": "eng",
+    "City": "birmingham",
+    "Phone": "18317442342",
+    "Cinsi": "Jenskiy",
+    "Birth": "System.Windows.Forms.DateTimePicker, Value: 6/1/2023 5:42:14 AM"
+  }
+]
