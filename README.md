@@ -1,0 +1,1 @@
+# Desktop2_Winform__Anket1VeCalculator
